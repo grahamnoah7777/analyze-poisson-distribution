@@ -79,4 +79,4 @@ def analyze_poisson(file, row_name: str):
 
 
 #Test usage: 
-# analyze_poisson(r"filename", "col_name")
+# analyze_poisson(r"analyze_poisson_distribution.py", "counts")
