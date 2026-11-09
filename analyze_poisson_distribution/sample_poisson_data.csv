@@ -1,27 +1,4 @@
-Spectrum Name:
-Description:
-Student ID:
-Detector Used:
-Comments:
-Acquisition Mode:,PHA Pre-Amp
-High Voltage:,780
-Conversion Gain:,256
-Coarse Gain:,4
-Fine Gain:,1.0
-Upper Discriminator:,946
-Lower Discriminator:,6
-Calibration Coefficients:,-8.057803468208093,3.6416184971098264
-Calibration Channels:,184,11
-Calibration Energies:,662.0,32.0
-Elapsed Real Time:,996.37
-Elapsed Live Time:,992.74
-Start Time:,April 09, 2012, 02:00:50
-End Time:,April 09, 2012, 02:00:47
-ROIs:
-ROI:,Low,High,Gross,Net,FWHM,Centroid
 
-
-Channel Data:
 Channel,Energy,Counts
 0,-8.057803468208093,0
 1,-4.416184971098266,0
