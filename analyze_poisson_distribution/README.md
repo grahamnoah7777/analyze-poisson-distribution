@@ -39,3 +39,4 @@ Project Structure
 analyze_poisson_distribution.py — Main analysis program.
 
 sample_poisson_data.csv — Example CSV dataset.
+<img width="567" height="360" alt="sample_data_plot" src="https://github.com/user-attachments/assets/e0610c34-1525-43be-9302-b0ad2501d9e6" />
